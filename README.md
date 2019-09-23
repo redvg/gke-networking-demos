@@ -1,3 +1,5 @@
+This project presents a number of best practices for establishing network links between Kubernetes Engine clusters, and exposing cluster services across Google Cloud projects. You will use a set of Deployment Manager templates to create networks, subnets, vpn connections, and Kubernetes Engine clusters.
+
 # Kubernetes Engine Networking
 
 
